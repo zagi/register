@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "zagi",
+  },
+  "record": {
+    "NS": [
+      "ns1.zagalski.pl",
+      "ns2.zagalski.pl"
+    ]
+  }
+}
